@@ -6950,10 +6950,10 @@ typed-array-length@^1.0.4:
     for-each "^0.3.3"
     is-typed-array "^1.1.9"
 
-typo-react-draggable@^4.4.6:
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/typo-react-draggable/-/typo-react-draggable-4.4.6.tgz#783c5bc42e2120f98b2e4122316e9388a5f3b3d9"
-  integrity sha512-Ub+MEZFHW2vkdoyWLkreCU8nB4O0zY9auhoaQNTciAWdQX1IA96c+qAvelNoAPT99CHNduCcEJzvM4Sf82XR0g==
+typo-react-draggable@4.4.7:
+  version "4.4.7"
+  resolved "https://registry.yarnpkg.com/typo-react-draggable/-/typo-react-draggable-4.4.7.tgz#ba944c43571568b89c24b46725f8660f9f928e80"
+  integrity sha512-aUJPtbydXOfeLsoIPkXRBPmtO9gSRyUGIyqus+JUlOPGwMswHZmmHmncyG4vx9qwtutIizNzmPE38+uBeFmoxA==
   dependencies:
     clsx "^1.1.1"
     prop-types "^15.8.1"

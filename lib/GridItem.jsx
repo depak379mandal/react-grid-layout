@@ -1,7 +1,7 @@
 // @flow
 import React from "react";
 import PropTypes from "prop-types";
-import { DraggableCore } from "react-draggable";
+import { DraggableCore } from "typo-react-draggable";
 import { Resizable } from "react-resizable";
 import {
   fastPositionEqual,

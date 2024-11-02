@@ -43,7 +43,7 @@
     "react-draggable": "danimai-org/react-draggable#master",
     "react-resizable": "^3.0.5",
     "resize-observer-polyfill": "^1.5.1",
-    "typo-react-draggable": "^4.4.6"
+    "typo-react-draggable": "4.4.7"
   },
   "_dependencyNotes": {
     "fast-equals": "Bug in CRA5 causes fast-equals@5 to fail to import due to .cjs file. See https://github.com/react-grid-layout/react-grid-layout/issues/1904"
