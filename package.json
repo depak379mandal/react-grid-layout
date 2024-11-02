@@ -40,7 +40,7 @@
     "clsx": "^2.0.0",
     "fast-equals": "^4.0.3",
     "prop-types": "^15.8.1",
-    "react-draggable": "^4.4.5",
+    "react-draggable": "danimai-org/react-draggable#master",
     "react-resizable": "^3.0.5",
     "resize-observer-polyfill": "^1.5.1"
   },
