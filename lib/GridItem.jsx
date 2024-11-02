@@ -365,6 +365,7 @@ export default class GridItem extends React.Component<Props, State> {
         }
         scale={this.props.transformScale}
         nodeRef={this.elementRef}
+        allowMobileScroll={true}
       >
         {child}
       </DraggableCore>

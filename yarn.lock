@@ -5926,10 +5926,17 @@ react-dom@^16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-draggable@^4.0.3, react-draggable@^4.4.5:
+react-draggable@^4.0.3:
   version "4.4.5"
   resolved "https://registry.yarnpkg.com/react-draggable/-/react-draggable-4.4.5.tgz#9e37fe7ce1a4cf843030f521a0a4cc41886d7e7c"
   integrity sha512-OMHzJdyJbYTZo4uQE393fHcqqPYsEtkjfMgvCHr6rejT+Ezn4OZbNyGH50vv+SunC1RMvwOTSWkEODQLzw1M9g==
+  dependencies:
+    clsx "^1.1.1"
+    prop-types "^15.8.1"
+
+react-draggable@danimai-org/react-draggable#master:
+  version "4.4.6"
+  resolved "https://codeload.github.com/danimai-org/react-draggable/tar.gz/a61bd5feaee52f753375ab1955cafe3881b2bc14"
   dependencies:
     clsx "^1.1.1"
     prop-types "^15.8.1"
@@ -6942,6 +6949,14 @@ typed-array-length@^1.0.4:
     call-bind "^1.0.2"
     for-each "^0.3.3"
     is-typed-array "^1.1.9"
+
+typo-react-draggable@^4.4.6:
+  version "4.4.6"
+  resolved "https://registry.yarnpkg.com/typo-react-draggable/-/typo-react-draggable-4.4.6.tgz#783c5bc42e2120f98b2e4122316e9388a5f3b3d9"
+  integrity sha512-Ub+MEZFHW2vkdoyWLkreCU8nB4O0zY9auhoaQNTciAWdQX1IA96c+qAvelNoAPT99CHNduCcEJzvM4Sf82XR0g==
+  dependencies:
+    clsx "^1.1.1"
+    prop-types "^15.8.1"
 
 unbox-primitive@^1.0.2:
   version "1.0.2"
