@@ -1,6 +1,6 @@
 {
   "name": "typo-react-grid-layout",
-  "version": "1.5.0",
+  "version": "1.5.2",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
   "main": "index.js",
   "scripts": {
@@ -41,9 +41,9 @@
     "fast-equals": "^4.0.3",
     "prop-types": "^15.8.1",
     "react-draggable": "danimai-org/react-draggable#master",
-    "react-resizable": "^3.0.5",
     "resize-observer-polyfill": "^1.5.1",
-    "typo-react-draggable": "4.4.7"
+    "typo-react-draggable": "4.4.7",
+    "typo-react-resizable": "^3.0.6"
   },
   "_dependencyNotes": {
     "fast-equals": "Bug in CRA5 causes fast-equals@5 to fail to import due to .cjs file. See https://github.com/react-grid-layout/react-grid-layout/issues/1904"

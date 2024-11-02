@@ -2,7 +2,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { DraggableCore } from "typo-react-draggable";
-import { Resizable } from "react-resizable";
+import { Resizable } from "typo-react-resizable";
 import {
   fastPositionEqual,
   perc,
